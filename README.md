@@ -1,6 +1,6 @@
 ### Hello, I'm Nat! 👋
 
-<img align="center" src="./intro-banner.png"
+<img align="center" src="./intro-banner.png">
 
 <!--
 **NataliaPoletaeva/NataliaPoletaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

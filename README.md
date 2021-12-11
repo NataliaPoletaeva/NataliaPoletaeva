@@ -2,17 +2,22 @@
 
 ![](https://user-images.githubusercontent.com/91270103/145673094-0c41b58b-baa4-4a0a-82b3-11768efae181.png)
 
-<!--
-**NataliaPoletaeva/NataliaPoletaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying at: <img width="80" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about: cats, anime, music recommendations!<br/>
+
+- 😄 Pronouns: she/her<br/>
+
+- ⚡ Fun fact: I love collecting stuff!
+
+## Contact Me
+
+- Twitter: [@Fly_Meets](https://twitter.com/Fly_Meets)
+
+## Achievements and stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPoletaeva&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaPoletaeva&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

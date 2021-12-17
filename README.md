@@ -15,6 +15,8 @@
 ## Contact Me
 
 - Twitter: [@Fly_Meets](https://twitter.com/Fly_Meets)
+- LinkedIn: [Natalia Poletaeva](https://www.linkedin.com/in/natalia-poletaeva-b9a5b0222/)
+- E-mail: [natfly799@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZRMsRbZCxczXLlsXBDdzqjbxHtcMmhzTSWXHTrMHFcBGgwbDgsNczwSbtSkWfSrmBvCL)
 
 ## Achievements and stats
 

@@ -1,6 +1,6 @@
 ### Hello, I'm Nat! 👋
 
-![](https://user-images.githubusercontent.com/91270103/145673094-0c41b58b-baa4-4a0a-82b3-11768efae181.png)
+![](https://user-images.githubusercontent.com/91270103/167804106-54960157-1067-4cb2-a41a-b685bef44e2f.png)
 
 ## About Me
 
